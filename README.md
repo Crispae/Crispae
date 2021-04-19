@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm saurav kumar</h1>
 <h3 align="center">A passionate Biochemist, AI enthusiast from India</h3>
 
-<p align="left"> <a href="https://twitter.com/sauravk76534078" target="blank"><img src="https://img.shields.io/twitter/follow/sauravk76534078?logo=twitter&style=for-the-badge" alt="sauravk76534078" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sauravk76534078" target="blank"></a> </p>
 
 - 🌱 I’m currently expanding my skill set by learning **Rust,React,Django**
 
