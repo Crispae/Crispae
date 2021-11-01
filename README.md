@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm saurav kumar</h1>
-<h3 align="center">A passionate Biochemist, AI enthusiast from India</h3>
+<h3 align="center">A passionate undergraduate Biochemist, AI enthusiast from India</h3>
 
 <p align="left"> <a href="https://twitter.com/sauravk76534078" target="blank"></a> </p>
 
