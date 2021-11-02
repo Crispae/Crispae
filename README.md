@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sauravbioinfo3376@gmail.com**
 
-![Twitter Follow](https://img.shields.io/twitter/follow/@sauravk76534078?color=1DA1F2&logo=twitter&style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/sauravk76534078?color=1DA1F2&logo=twitter&style=for-the-badge)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sauravk76534078" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sauravk76534078" height="30" width="40" /></a>
