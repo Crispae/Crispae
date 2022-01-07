@@ -25,5 +25,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crispae&" alt="crispae" /></p>
 
-![](https://hit.yhype.me/github/profile?user_id=74324530)
+![](https://hit.yhype.me/github/profile?user_id=74324530&color=green)
 
