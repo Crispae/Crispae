@@ -9,6 +9,10 @@
 
 - 📫 How to reach me **sauravbioinfo3376@gmail.com**
 
+
+![](https://komarev.com/ghpvc/?username=Crispae)
+
+
 ![Twitter Follow](https://img.shields.io/twitter/follow/sauravk76534078?color=1DA1F2&logo=twitter&style=for-the-badge)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
